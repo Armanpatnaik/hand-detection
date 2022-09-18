@@ -1,0 +1,8 @@
+video{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+}
+element.style{
+    height: 0px;
+}
